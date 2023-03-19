@@ -134,7 +134,7 @@
 
 # 7.位操作常见面试题
 
-![](E:\Sources\c\day01\pics\位操作常见面试题.png)
+![](\pics\位操作常见面试题.png)
 
 > 1. `n % 2 != 0` 或 `n & 1`;
 >
@@ -1119,12 +1119,11 @@
 >    >
 >    >  (不符合4-结点的表示，将其调整符合4-结点的表示)
 
-> <img src="E:\Sources\c\day01\pics\2-3-4insert.png" style="zoom: 67%;" />
+> <img src="\pics\2-3-4insert.png" style="zoom: 67%;" />
 >
-> <img src="E:\Sources\c\day01\pics\2-3-4Node转RBNode.png" style="zoom: 67%;" />
+> <img src="\pics\2-3-4Node转RBNode.png" style="zoom: 67%;" />
 >
-> <img src="E:\Sources\c\day01\pics\RBinsert.png"  />
->
+> <img src="\pics\RBinsert.png"  />
 
 ---
 
