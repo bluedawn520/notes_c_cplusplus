@@ -1,0 +1,2 @@
+# notes_c_cplusplus
+notes_c__linux_cplusplus
